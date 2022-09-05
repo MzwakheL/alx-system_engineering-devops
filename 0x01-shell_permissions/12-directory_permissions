@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 755 dir_MzwakheL
+mkdir -m 755 my_dir
